@@ -10,12 +10,11 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 
 | Name | Student ID | Role |
 |---|---|---|
-| Member 1 | XXXXXXXX | Leader |
-| Member 2 | XXXXXXXX | Member |
-| Member 3 | XXXXXXXX | Member |
-| Member 4 | XXXXXXXX | Member |
-| Member 5 | XXXXXXXX | Member |
-| Member 6 | XXXXXXXX | XXX |
+| Jumanah Alsaiari | 2250006893 | Leader |
+| Fatma Abdu | 2250009228 | Member |
+| Munyah Alhajri | 2250001220 | Member |
+| Rana Athobaiti | 2250004161 | Member |
+| Zahra  Almahasnah | 2250001315 | Member |
 
 > Remove any unused member row if your group has fewer than 6 members.
 
@@ -30,7 +29,7 @@ The group must choose **one public dataset** that meets all of the following req
 
 ### Dataset Link
 
-[Add your dataset link here](YOUR_DATASET_LINK)
+http://localhost:8888/edit/Assignment1/data/salaries.csv
 
 ##  Requirements
 
@@ -91,7 +90,7 @@ A recommended repository structure is:
 
 The repository must be **public** so that the submitted link can be opened without requiring a login.
 
-**Repository:** [Add your GitHub repository link here](YOUR_GITHUB_REPOSITORY_LINK)
+**Repository:** https://github.com/Jumanahalsaiari/Assignment-1-Group5-
 
 ## Submission
 
